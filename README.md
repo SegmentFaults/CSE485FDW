@@ -4,10 +4,15 @@
 <ol>
   <li>Create a compute instance</li>
   <img src="Compute.PNG">
+  <p>Just click on the compute section</p>
   <img src="VMInstance.PNG">
+  <p>Select that you want to make a new instance</p>
   <img src="create.PNG">
+  <p>Select to create a new compute instance</p>
   <img src="params.PNG">
+  <p>Create a VM with the following params (possibly less hardware</p>
   <img src="clickhere.PNG">
+  <p>This will begin an SSH session where the true fun will begin</p>
   <li>Commands:
     <ol>
         <li>sudo su</li>
