@@ -3,6 +3,11 @@
 <h3>Insturctions</h3>
 <ol>
   <li>Create a compute instance</li>
+  <img src="Compute.PNG">
+  <img src="VMInstance.PNG">
+  <img src="create.PNG">
+  <img src="params.PNG">
+  <img src="clickhere.PNG">
   <li>Commands:
     <ol>
         <li>sudo su</li>
