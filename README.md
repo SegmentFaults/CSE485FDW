@@ -26,7 +26,9 @@
         <li>This data wrapper is now installed. You can now run my code or the one provided in the repo. Mine shows you how to run from my databases. There is a known error with the connection tester not accepting dashes</li>
         <li>To run mine run "git clone https://github.com/SegmentFaults/CSE485FDW.git"</li>
         <li> su postgres -c 'psql -f CSE485FDW/testScripts/customSetup.sql -d fdw'</li>
-        <li> su postgres -c 'psql -f CSE485FDW/testScripts/customQuery.sql -d fdw'     *TO GET OUT JUST PRESS Q<li>
+        <li> su postgres -c 'psql -f CSE485FDW/testScripts/customQuery.sql -d fdw'     *TO GET OUT JUST PRESS Q</li>
+        <li> To exit your docker container use ctrl+p and ctrl+q </li>
+        <li> To resume your docker container run docker ps. Find the name of the docker image then run docker run -ti nameofcontainer bash</li>
     </ol>
  </ol>
 <p> When you're done make sure to STOP your servers</p>
